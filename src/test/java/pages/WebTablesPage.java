@@ -1,4 +1,4 @@
-package pages.webtablespage;
+package pages;
 
 import com.codeborne.selenide.SelenideElement;
 
